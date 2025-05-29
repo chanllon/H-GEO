@@ -1,5 +1,5 @@
 The problem texts of the dataset are included in ​​FTtrain.json​​ and ​​FTtest.json​​.
-# H-GEO
+# H-GEO:A Dataset for Fine-Tuning Multimodal Large Language Models to Mitigate Hallucination Phenomena in Solving Geometry Problems.
 H-GEO is a dataset of images and Chinese text featuring geometry problems, LLM errors, and their corrections. It supports fine-tuning to reduce hallucinations in geometric reasoning.
 # JSON structure
 ```json
